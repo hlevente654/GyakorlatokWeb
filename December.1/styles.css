@@ -1,0 +1,20 @@
+
+  .container-fluid{
+    max-width:1600px;
+    min-height:600px;}
+    .jumbotron{ 
+        background: linear-gradient(to bottom, rgba(255,255,255,0.4), rgba(255,255,255,0.9) ) ,url(background.jpg) center no-repeat;
+        background-size: cover;
+    }
+    img{
+        height: 150px;
+    }
+    #jatek.td{
+        border:10px solid black;
+    }
+    table{
+  border-collapse: collapse;
+    }
+    table, th, td {
+  border: 1px solid black;
+}

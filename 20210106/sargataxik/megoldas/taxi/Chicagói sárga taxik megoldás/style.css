@@ -1,0 +1,71 @@
+#tartalom{
+    background-color: goldenrod;
+    max-width: 960px;
+    width: auto;
+    margin: 0 auto;
+    border-left: 10px double gold;
+    border-right: 10px double gold;
+   
+}
+h1{
+    font-variant: small-caps;
+    text-align: center;
+     font-size:50px;
+    font-weight:bolder;
+}
+p{
+    text-align: justify;
+}
+.blokktores{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
+a:hover{
+    color: red;
+}
+.doboz{
+    display: inline-block;
+    max-width: 930px;
+    margin: 0 auto;
+    width: auto;
+    padding: 15px;
+}
+
+
+body{
+    background-color:#fff8dc;
+   
+}
+
+.jobbra{
+    margin:0 0 15px 15px;
+    border:3px solid #ff0;
+    float: right;
+    max-height: 300px;
+    height: auto;
+}
+
+.felsorolas{
+    padding:25px;
+    margin:15px 15px 0 0;
+    float: left;
+    max-width: 400px;
+    width: auto;
+    background-color: lightgray;
+     border: 3px solid yellow;
+}
+
+.balra{
+    float:left;
+    margin-right:10px;
+    float: left;
+}
+
+
+hr{
+    border-color:#ff0;
+    margin-bottom:30px;
+}
