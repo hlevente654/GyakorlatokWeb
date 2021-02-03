@@ -34,6 +34,7 @@ session_start();
 			<li class="nav-item"><a class="nav-link" href="index_.php?p=feladat3.php">Kölcsönzések</a></li>
 			<li class="nav-item"><a class="nav-link" href="index_.php?p=feladat4.php">Új könyv</a></li>
 			<li class="nav-item"><a class="nav-link" href="index_.php?p=feladat5.php">Évfolyam módosítás</a></li>
+			<li class="nav-item"><a class="nav-link" href="index_.php?p=feladat6.php">Statisztika</a></li>
 		</ul>
 	</div>
 </nav>  

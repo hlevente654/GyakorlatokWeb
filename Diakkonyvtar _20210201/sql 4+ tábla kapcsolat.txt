@@ -1,0 +1,1 @@
+SELECT a.az,a.nev,b.el,.b.vissza,d.szerzo,d.cim FROM diak a,kolcsonzes b, peldany c, mu d WHERE a.az = b.diakaz AND b.peldanyaz = c.az AND c.muaz = d.az AND a.az = 1 ;
