@@ -1,0 +1,46 @@
+body{
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size:18px;
+}
+h1{
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+}
+h2{
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+}
+h3{
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+}
+h4{
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+}
+.fejlec-kep{
+    background-image: url("tesztauzem-fejlec.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    height: 500px;
+    color: white;
+    text-align: center;
+}
+#tesztauzem-kep{
+    max-width: 95%;
+}
+.display-4{
+    font-size:54px;
+}
+.akció{
+    background-color:#d6c5c5;
+    margin: 15px;
+    font-weight: 700;
+}
